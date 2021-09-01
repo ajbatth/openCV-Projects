@@ -1,7 +1,7 @@
 import cv2
 
-print("Press 0 to open web camera")
-print("Press 1 to access connected camera")
+print("Press 1 to open web camera")
+print("Press 0 to access connected camera")
 cam = int(input())
 
 print("Enter the location of folder where you want to store images:")
